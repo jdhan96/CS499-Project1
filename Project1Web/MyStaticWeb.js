@@ -7,4 +7,4 @@ app.get('/', function (req, res) {
         res.sendfile('./HomePage.html')
 })
 
-app.listen(3000)
+app.listen(80)
